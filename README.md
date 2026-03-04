@@ -104,6 +104,18 @@ The transform step adds these derived columns:
 | `sepal_area` | sepal_length × sepal_width |
 | `petal_area` | petal_length × petal_width |
 
+## Screenshots
+
+
+<img width="888" height="623" alt="image" src="https://github.com/user-attachments/assets/41e335f8-bd91-439f-a34b-d56c13d8fcce" />
+
+
+<img width="867" height="887" alt="image" src="https://github.com/user-attachments/assets/666b8830-f858-4b9a-af3c-587ebc26a7b7" />
+
+
+<img width="1910" height="872" alt="image" src="https://github.com/user-attachments/assets/d50a57f4-0429-49e2-8a43-53484e664776" />
+
+
 ## Expected Results
 
 After running the pipeline:
