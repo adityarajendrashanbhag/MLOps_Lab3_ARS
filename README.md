@@ -1,4 +1,4 @@
-# Iris ETL Pipeline with Apache Airflow
+# Iris ETL Pipeline with Apache Airflow (Lab 3)
 
 An end-to-end ETL pipeline that processes the Iris dataset from raw JSON to a trained ML model, orchestrated with Apache Airflow.
 
